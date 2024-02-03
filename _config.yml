@@ -256,8 +256,22 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+<<<<<<< HEAD
  https://github.com/jekyll/jekyll-archives
 
+=======
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+>>>>>>> parent of 63a41492 (category&tag update)
 
 
 # HTML Compression
